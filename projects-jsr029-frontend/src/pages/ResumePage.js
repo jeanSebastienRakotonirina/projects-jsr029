@@ -92,6 +92,7 @@ const ResumePage = () => {
                     </section>
                 </div>
             </div>
+            
             <Footer />
         </>
     );
